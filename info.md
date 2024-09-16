@@ -9,6 +9,7 @@ original Version:
 
 
 My Version:
+
 [![](https://img.shields.io/github/release/JansenDevelopment/localtuya/all.svg?style=for-the-badge)](https://github.com/JansenDevelopment/localtuya/releases)
 [![](https://img.shields.io/badge/MAINTAINER-%JansenDevelopment-green?style=for-the-badge)](https://github.com/JansenDevelopment)
 
