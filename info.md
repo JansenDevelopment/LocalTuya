@@ -8,17 +8,12 @@ original Version:
 [![](https://img.shields.io/badge/MAINTAINER-%40rospogrigio-green?style=for-the-badge)](https://github.com/rospogrigio)
 
 
-
-
 My Version:
-[![](https://img.shields.io/github/release/xeroxmsj/localtuya/all.svg?style=for-the-badge)](https://github.com/xeroxmsj/localtuya/releases)
-[![](https://img.shields.io/badge/MAINTAINER-%40xeroxmsj-green?style=for-the-badge)](https://github.com/xeroxmsj)
+[![](https://img.shields.io/github/release/JansenDevelopment/localtuya/all.svg?style=for-the-badge)](https://github.com/JansenDevelopment/localtuya/releases)
+[![](https://img.shields.io/badge/MAINTAINER-%JansenDevelopment-green?style=for-the-badge)](https://github.com/JansenDevelopment)
 
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
-
-
-
 
 
 # Info:
