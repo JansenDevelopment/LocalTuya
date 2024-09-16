@@ -99,7 +99,7 @@ HVAC_MODE_SETS = {
         HVACMode.AUTO: "auto",
         HVACMode.COOL: "cold",
         HVACMode.DRY: "dry",
-        HVACMode.WET: "wet",
+        #HVACMode.WET: "wet",
         HVACMode.FAN_ONLY: "wind",
     },
 }
